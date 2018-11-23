@@ -21,7 +21,7 @@ There are plenty of resources that are available on the internet to learn Go inc
 * [Advanced Types](./lessons/advancedtypes.html)
 * [Functions](./lessons/functions.html)
 * [Defer, Panic & Recover](./lessons/deferpanicrecover.html)
-* [Ponters](./lessons/pointers.html)
+* [Pointers](./lessons/pointers.html)
 * [Structs & Interfaces](./lessons/structsinterfaces.html)
 * [Errors](./lessons/errors.html)
 * [Goroutines & Channels](./lessons/goroutineschannels.html)
